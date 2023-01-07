@@ -1,0 +1,8 @@
+
+
+📂Resource
+remix icon: https://remixicon.com/
+font: https://fonts.google.com/
+aos : https://www.npmjs.com/package/aos
+swiper-slide: https://swiperjs.com/react
+code sandbox link: https://codesandbox.io/s/y6dn3i?file=%2Fsrc%2FApp.jsx
